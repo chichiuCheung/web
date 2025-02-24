@@ -1,0 +1,9 @@
+<head><script src="https://www.paypalobjects.com/ncp/cart/cart.js" data-merchant-id="F9Q6JX4EBGPTJ"></script></head>
+<body><paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
+<script>
+  cartPaypal.Cart({ id: "pp-view-cart" })
+</script></body>
+<body><paypal-add-to-cart-button data-id="BMZ2KPDLA2RB4"></paypal-add-to-cart-button>
+<script>
+  cartPaypal.AddToCart({ id: "BMZ2KPDLA2RB4" })
+</script></body>
